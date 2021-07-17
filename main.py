@@ -1,3 +1,8 @@
+# I found a bug at least. When playing for a draw, not only the last move never gets filled in but it also prints the text "what is your next move"
+# with the coursor haging on the user input number. 
+
+# Another thing is, you win pretty easily and the message is "Player won". Wouldn't be cool to get the user's name?
+
 # Welcome to my Tic Tac Toe python game
 import random as random
 import sys
